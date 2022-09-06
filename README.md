@@ -1,7 +1,7 @@
 ## Hola, I'm Riya Kumari👋
 
 
-I am a tech enthusiast 💻 who loves programming and also exploring about Web Developer and Machine Learning!
+I am a tech enthusiast 💻 who loves programming and also exploring about Web Developing and Machine Learning!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanTandon17&label=Profile%20views&color=0e75b6&style=flat" alt="Iam-RiyaKumari" /> </p>
 
