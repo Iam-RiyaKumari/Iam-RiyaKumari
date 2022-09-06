@@ -12,7 +12,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Web D
 - 🌱 I’m currently learning Machine Learning.
 - 🤔 I’m looking for help with the current project.
 - 💬 Ask me about ML, web or any tech related stuff.
-- 📫 How to reach me: Linkedin("https://www.linkedin.com/in/riya-kumari-08242b192/")
+- 📫 How to reach me: Twitter("@Riyakum50818345")
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend 12 hour listening to songs.
 
@@ -20,18 +20,20 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Web D
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b>Windows 11</li>
-	    <li><b>Laptop: </b> Hp Intel Core i3 </li>
+	    <li><b>Laptop: </b> Hp Intel Core i3 7th Gen </li>
   	    <li><b>Browser: </b> Microsoft & Chrome</li>
 
 	
 <h3 align="left">Connect with me:</h3>
 	
 <p align="left">
-<a href="https://www.linkedin.com/in/riya-kumari-08242b192/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amantandon" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/riya-kumari-08242b192/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riyakumari" height="30" width="40" /> </a>
+
+<a href="https://twitter.com/RiyaKum50818345" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riyakumari" height="30" width="40" /></a>
 	
-<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amantandon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/?i=ee92klszn36f&utm_content=7rj3vms" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riyakumari" height="30" width="40" /></a>
 	
-<a href="https://www.hackerrank.com/riyakumari_rk219?hr_r=1" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amantandon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/riyakumari_rk219?hr_r=1" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riyakumari" height="30" width="40" /></a>
 </p>
 
 
