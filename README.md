@@ -12,7 +12,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Web D
 - 🌱 I’m currently learning Machine Learning.
 - 🤔 I’m looking for help with the current project.
 - 💬 Ask me about ML, web or any tech related stuff.
-- 📫 How to reach me: Twitter("@Riyakum50818345")
+- 📫 How to reach me: Twitter : @Riyakum50818345
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend 12 hour listening to songs.
 
