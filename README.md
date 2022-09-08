@@ -1,20 +1,20 @@
 ## Hola, I'm Riya Kumari👋
 
 
-I am a tech enthusiast 💻 who loves programming and also exploring about Web Developing and Machine Learning!
+I am a tech enthusiast 💻 who loves programming and also exploring about Machine Learning and Web Developing!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanTandon17&label=Profile%20views&color=0e75b6&style=flat" alt="Iam-RiyaKumari" /> </p>
 
 </a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
 </a>
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on Machine learning.
+- 🌱 I’m currently learning Web Developing.
 - 🤔 I’m looking for help with the current project.
 - 💬 Ask me about ML, web or any tech related stuff.
 - 📫 How to reach me: Twitter : @Riyakum50818345
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I spend 12 hour listening to songs.
+- ⚡ Fun fact: I spend almost 12 hour listening to songs.
 
 
 <b>⚙️ Things I use to get stuff done</b></summary>
@@ -65,7 +65,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Web D
 
 	
 	
-<a href="https://github.com/AmanTandon17">
+<a href="https://github.com.Iam-RiyaKumari/">
 <img height="114em"src="https://github-readme-stats.vercel.app/api?username=Iam-RiyaKumari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iam-RiyaKumari&layout=compact&langs_count=6&theme=algolia"/>
