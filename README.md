@@ -65,7 +65,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 
 	
 	
-<a href="https://github.com.Iam-RiyaKumari/">
+<a href="https://github.com.Iam-RiyaKumari">
 <img height="114em"src="https://github-readme-stats.vercel.app/api?username=Iam-RiyaKumari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iam-RiyaKumari&layout=compact&langs_count=6&theme=algolia"/>
