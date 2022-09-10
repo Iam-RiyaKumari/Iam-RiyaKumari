@@ -12,9 +12,9 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 - 🌱 I’m currently learning Web Developing.
 - 🤔 I’m looking for help with the current project.
 - 💬 Ask me about ML, web or any tech related stuff.
-- 📫 How to reach me: Twitter : @Riyakum50818345
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hour listening to songs.
+- 📫 How to reach me: <a href="https://twitter.com/RiyaKum50818345" target="blank"><img src="https://img.shields.io/twitter/follow/RiyaKum50818345?logo=twitter&style=for-the-badge" alt="RiyaKum50818345" /></a> </p>
 
 
 <b>⚙️ Things I use to get stuff done</b></summary>
