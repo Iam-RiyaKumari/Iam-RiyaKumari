@@ -88,6 +88,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 
 <div align="center">
 
+<b>Thank you for visiting here. ☺️ </b><br>
 ### Show some ❤️ by starring some of the repositories!
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
