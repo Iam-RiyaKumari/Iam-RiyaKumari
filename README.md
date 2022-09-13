@@ -1,4 +1,4 @@
-## Hola, I'm [Riya Kumari](https://iam-riyakumari.github.io/portfolio-riyal/)👋
+### Hola, I'm [Riya Kumari](https://iam-riyakumari.github.io/portfolio-riyal/)👋
 
 
 I am a tech enthusiast 💻 who loves programming and also exploring about Machine Learning and Web Developing!
