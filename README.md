@@ -1,10 +1,10 @@
-### Hola, I'm [Riya Kumari](https://iam-riyakumari.github.io/portfolio-riyal/)👋
+## Hola, I'm [Riya Kumari](https://iam-riyakumari.github.io/portfolio-riyal/)👋
 
 
 I am a tech enthusiast 💻 who loves programming and also exploring about Machine Learning and Web Developing!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanTandon17&label=Profile%20views&color=0e75b6&style=flat" alt="Iam-RiyaKumari" /> </p>
-
+ 
 </a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
 </a>
 
