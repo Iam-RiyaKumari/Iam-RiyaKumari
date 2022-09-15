@@ -5,9 +5,10 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanTandon17&label=Profile%20views&color=0e75b6&style=flat" alt="Iam-RiyaKumari" /> </p>
  
-</a><img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
+</a><img align="right" alt="GIF" 
+src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="355" />
 </a>
-
+<br>
 - 🔭 I’m currently working on Machine learning.
 - 🌱 I’m currently learning Web Developing.
 - 🤔 I’m looking for help with the current project.
@@ -15,7 +16,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hour listening to songs.
 - 📫 How to reach me: <a href="https://twitter.com/RiyaKum50818345" target="blank"><img src="https://img.shields.io/twitter/follow/RiyaKum50818345?logo=twitter&style=for-the-badge" alt="RiyaKum50818345" /></a> </p>
-
+<br>
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -23,7 +24,7 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 	    <li><b>Laptop: </b> Hp Intel Core i3 7th Gen </li>
   	    <li><b>Browser: </b> Microsoft & Chrome</li>
 
-	
+<br>	
 <h3 align="left">Connect with me:</h3>
 	
 <p align="left">
@@ -35,10 +36,6 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Machi
 	
 <a href="https://www.hackerrank.com/riyakumari_rk219?hr_r=1" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riyakumari" height="30" width="40" /></a>
 </p>
-
-
-
-
 
 <br>
 
