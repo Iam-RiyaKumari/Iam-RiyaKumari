@@ -88,6 +88,6 @@ src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242
 <b>Thank you for visiting here. ☺️ </b><br>
 
 ### Show some ❤️ by starring some of the repositories!
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<h2 align="center"><img src= "https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 </div>
