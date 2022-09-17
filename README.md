@@ -1,6 +1,5 @@
 ## Hola, I'm [Riya Kumari](https://iam-riyakumari.github.io/portfolio-riyal/)👋
 
-
 I am a tech enthusiast 💻 who loves programming and also exploring about Machine Learning and Web Developing!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanTandon17&label=Profile%20views&color=0e75b6&style=flat" alt="Iam-RiyaKumari" /> </p>
